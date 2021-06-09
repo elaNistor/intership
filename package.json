@@ -1,0 +1,23 @@
+{
+  "name": "management-firma",
+  "version": "3.0.0",
+  "description": "",
+  "main": "AngajatIT.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elaNistor/management-firma.git"
+  },
+  "author": "Nistor Mihaela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elaNistor/management-firma/issues"
+  },
+  "homepage": "https://github.com/elaNistor/management-firma#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
